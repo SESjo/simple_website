@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+List of your projects:
+
+![This is a bird!](https://exploreparis.com/14633/les-oiseaux-du-bois-de-vincennes.jpg){fig-align="left"}
+
+Projet Oiseaux

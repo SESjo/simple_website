@@ -1,0 +1,7 @@
+---
+bibliography: references.bib
+---
+
+Where you can put you publications:
+
+[@hamilton2019]

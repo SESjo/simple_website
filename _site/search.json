@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "“A variety of experiences yields new perspectives”",
+    "section": "",
+    "text": "“A variety of experiences yields new perspectives”\nHighly data savvy, I bring a diverse set of experiences in both industry and academia, including expertise in machine learning, data visualization, and programming. My ability to manage projects, communicate effectively, and work collaboratively has allowed me to excel in a variety of work environments.\nI am confident that my skills and experience will make me a valuable asset for any relevant data-related position, and I look forward to the opportunity to contribute my expertise to your organization.\nKey Achievements include:\n\n\n\n\na PhD in a quantitative discipline involving wildlife motion sensors, i.e. wearable devices\nthe development of a greenhouse gas emissions forecasting model, reducing computation time from days to minutes\nthe implementation of a self-service business intelligence approach with the Tableau product suite\nthe publication of eight scientific papers in highly ranked journals\nthe use of version control and containerization, to ensure reproducible work and create consistent and portable analyses"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "List of your projects:\n\n\n\nThis is a bird!\n\n\nProjet Oiseaux"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "simple_website",
+    "section": "",
+    "text": "Where you can put you publications:\n(Hamilton et al. 2019)\n\n\n\n\nReferences\n\nHamilton, Charmain D., Christian Lydersen, Mike A. Fedak, Carla Freitas, Mark A. Hindell, and Kit M. Kovacs. 2019. “Behavioural Ontogeny of Bearded Seals Erignathus Barbatus Through the First Year of Life.” Marine Ecology Progress Series 627 (September): 179–94. https://doi.org/10.3354/meps13072."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
